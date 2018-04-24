@@ -1,0 +1,31 @@
+body{
+	background-image: url("https://png.clipart.me/istock/previews/5196/51962880-electric-guitars-seamless-background-music-theme-pattern.jpg");
+}
+#title{
+	background-color: black;
+	display: block;
+	text-align: center;
+}
+#logo{
+	width: 100%;
+	max-width: 800px;
+}
+.content-block{
+	background-color: white;
+	opacity: 0.95;
+	height: auto;
+}
+.block-logo{
+	text-align: center;
+}
+.navbar-nav{
+	margin-left: auto;
+	margin-right: auto;
+}
+.songs{
+	font-weight: bold;
+	columns: 2;
+	-webkit-columns: 2;
+	-moz-columns: 2;
+	list-style-type: none;
+}
